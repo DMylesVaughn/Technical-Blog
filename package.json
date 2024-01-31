@@ -9,7 +9,7 @@
     "seed": "node seeds/index.js"
   },
   "engines": {
-    "node": ">16.19.0"
+    "node": "^16.19.0"
   },
   "dependencies": {
     "bcrypt": "^5.0.0",
