@@ -8,7 +8,6 @@ Module 14 Assignment for the Bootcamp is to create a CMS style technical blog us
 * [Contributing](#Contributing)
 * [Tests](#Tests)
 * [Code Location](#Code)
-* [Screenshots](#Screenshots)
 * [Questions](#Contact-Information)
 ## User Story
     AS A developer who writes about tech
@@ -61,9 +60,7 @@ This was tested using Heroku for deployment.
 
 ## Code
 * Github: https://github.com/DMylesVaughn/Technical-Blog
-
-## Screenshots
-* 
+* Heroku: https://technical-blog12-4d1dd9e95793.herokuapp.com/
 
 ## Contact Information 
 * GitHub Username: DMylesVaughn
