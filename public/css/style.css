@@ -10,8 +10,10 @@ body {
 
 h1 {
   font-family: "Jomolhari", serif;
-  background-color: rgb(74, 140, 179);
-  color: rgba(179, 130, 86, 0.836);
+  font-size: 4rem;
+  font-weight: bolder;
+  background-color: rgb(154, 199, 224);
+  color: rgba(105, 62, 24, 0.836);
   padding: 16px;
   margin-bottom: 5px;
 }
@@ -41,7 +43,7 @@ main {
 /* Nav styles */
 
 .navBar {
-  background-color: #0060a0;
+  background-color: rgba(179, 130, 86, 0.836);
 }
 
 #logout {

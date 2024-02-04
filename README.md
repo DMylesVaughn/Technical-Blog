@@ -6,6 +6,7 @@ Module 14 Assignment for the Bootcamp is to create a CMS style technical blog us
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Usage](#Usage)
 * [Contributing](#Contributing)
+* [Screenshots](#Screenshots)
 * [Tests](#Tests)
 * [Code Location](#Code)
 * [Questions](#Contact-Information)
@@ -54,6 +55,11 @@ You can use this code as a starting point to customize and build your own blog w
 
 ## Contributing 
 Download the source code and edit as needed.
+
+## Screenshots
+<img src=.\assets\Signup.jpg>
+<img src=.\assets\Blog.jpg>
+<img src=.\assets\CreatePost.jpg>
 
 ## Tests
 This was tested using Heroku for deployment.
