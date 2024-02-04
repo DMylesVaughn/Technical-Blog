@@ -1,10 +1,8 @@
-// Imports
 const { Model, DataTypes } = require("sequelize");
 const sequelize = require("../config/connection");
 
 class BlogPost extends Model {}
 
-// BlogPost Table Model
 BlogPost.init(
   {
     id: {
@@ -42,5 +40,4 @@ BlogPost.init(
   }
 );
 
-// Export
 module.exports = BlogPost;
